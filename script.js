@@ -1,6 +1,5 @@
-var ymr = "     Dipesh Yadav      "
-console.log(ymr);
-console.log(ymr.toUpperCase());
-console.log(ymr.toLowerCase());
-console.log(ymr.trim());
+let marks = 33;
+let attandance = 75;
 
+marks >= 33 || attandance >=75
+console.log(marks >= 33 || attandance >=75);

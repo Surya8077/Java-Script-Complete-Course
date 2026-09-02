@@ -1,0 +1,7 @@
+console.log(Math.random())
+console.log(Math.random()*10)
+console.log(Math.random()*20)
+console.log(Math.random()*30)
+console.log(Math.random()*40)
+console.log(Math.random()*50)
+console.log(Math.random()*100)
